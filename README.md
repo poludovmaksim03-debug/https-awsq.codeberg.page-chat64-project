@@ -49,10 +49,10 @@
     <!-- Подключаем библиотеки -->
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.0.0/dist/tf.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/tesseract.js@4.1.1/dist/tesseract.min.js"></script>
-    <script src="js/scanner2.js"></script>
-    <script src="js/recognizer2.js"></script>
-    <script src="js/ai-processor2.js"></script>
-    <script src="js/chatbot2.js"></script>
-    <script src="js/main2.js"></script>
+    <script src="scanner2.js"></script>
+    <script src="recognizer2.js"></script>
+    <script src="ai-processor2.js"></script>
+    <script src="chatbot2.js"></script>
+    <script src="main2.js"></script>
 </body>
 </html>
