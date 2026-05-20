@@ -1,7 +1,7 @@
-import DocumentScanner from './scanner.js';
-import TextRecognizer from './recognizer.js';
-import AIProcessor from './ai-processor.js';
-import ChatBot from './chatbot.js';
+import DocumentScanner from './scanner2.js';
+import TextRecognizer from './recognizer2.js';
+import AIProcessor from './ai-processor2.js';
+import ChatBot from './chatbot2.js';
 
 class App {
     constructor() {
